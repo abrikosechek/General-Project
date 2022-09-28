@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .screen {
+    @apply px-[120px] w-full;
+  }
+}
